@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+<a href="[https://www.instagram.com/codercitos/)" target="blank"><img align="center" src="https://res.cloudinary.com/dq2tfglqq/image/upload/v1695028599/codercitos_logo_circulo_sjgjh7.png" alt="ig_javier" height="70" width="70" /></a>
+<a href="[https://www.instagram.com/codercitos/)" target="blank"><img align="center" src="https://res.cloudinary.com/dq2tfglqq/image/upload/v1695029424/SoloLogo_Codercitos__qivtbz.png" alt="ig_javier" height="70" width="70" /></a>
 <a href="[www.linkedin.com/in/javier-serrano-caballero-7806b9283](https://www.linkedin.com/in/javier-serrano-caballero-7806b9283/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in_javier" height="40" width="50" /></a>
 </p>
 
